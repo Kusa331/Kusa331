@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=26&pause=700&color=00FF00&center=true&vCenter=true&width=900&lines=Hi+there+👋;I'm+Ken+D.+Usa;BSIT+Student+%7C+Linux+%28Ubuntu%29;Future+Software+Developer" />
+  <b style="color:#00FF00;font-family:Ubuntu Mono;font-size:22px;">Hi there 👋</b><br>
+  <b style="color:#00FF00;font-family:Ubuntu Mono;font-size:22px;">I'm Ken D. Usa</b><br>
+  <b style="color:#00FF00;font-family:Ubuntu Mono;font-size:22px;">BSIT Student | Linux (Ubuntu)</b><br>
+  <b style="color:#00FF00;font-family:Ubuntu Mono;font-size:22px;">Future Software Developer</b>
 </p>
+>
 
 ### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
