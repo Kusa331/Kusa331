@@ -1,41 +1,24 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=26&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Hi+there+👋;I'm+Ken+D.+Usa;BSIT+Student+%7C+Linux+Enthusiast;Future+Software+Developer;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=26&pause=700&color=00FF00&center=true&vCenter=true&width=900&lines=Hi+there+👋;I'm+Ken+D.+Usa;BSIT+Student+%7C+Linux+%28Ubuntu%29;Future+Software+Developer;Code+.%2Fbuild+--learn+--repeat" />
 </p>
-
-## 🧑‍💻 About Me
-- 🎓 **BSIT Student** at *University of the Immaculate Conception*
-- 🐧 Ubuntu / Linux user
-- 💻 Focused on **Software Development & Systems**
-- 🔐 Interested in **clean code, security, and problem-solving**
-
-HTML        ▰▰▰▰▰▰▰▰▰▱ 90%
-CSS         ▰▰▰▰▰▰▰▰▱▱ 85%
-JavaScript  ▰▰▰▰▰▰▰▱▱▱ 80%
-TypeScript  ▰▰▰▰▰▰▱▱▱▱ 70%
-
-PHP         ▰▰▰▰▰▰▰▰▱▱ 85%
-Laravel    ▰▰▰▰▰▰▰▱▱▱ 80%
-Python     ▰▰▰▰▰▰▰▱▱▱ 80%
-Java       ▰▰▰▰▰▰▱▱▱▱ 70%
-
-### 📘 Student Registration System
-🛠 Java | Swing | SQL  
-✔ Desktop-based system  
-✔ CRUD operations  
-✔ Form validation  
-
-🔗 https://github.com/YOUR_USERNAME/student-registration-system
-
-### 📱 Flutter Mobile App
-🛠 Flutter | Dart  
-✔ Cross-platform UI  
-✔ REST API integration  
-
-🔗 https://github.com/YOUR_USERNAME/flutter-app
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Student-BSIT-00FF00?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/OS-Ubuntu-00FF00?style=for-the-badge&logo=ubuntu&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-00FF00?style=for-the-badge" />
 </p>
 
-> "Build with purpose. Learn relentlessly."
+- 🎓 BSIT student at **University of the Immaculate Conception**
+- 🐧 Daily Ubuntu user
+- 💻 Focused on **development, systems, and clean code**
+- 🚀 Growing from **student → professional developer**
+
+
+🌐 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" /> </p> <img src="https://progress-bar.dev/90/?title=HTML&width=400&color=00ff00" /> <img src="https://progress-bar.dev/85/?title=CSS&width=400&color=00ff00" /> <img src="https://progress-bar.dev/80/?title=JavaScript&width=400&color=00ff00" /> <img src="https://progress-bar.dev/70/?title=TypeScript&width=400&color=00ff00" />
+
+⚙️ Backend / Frameworks
+<p> <img src="https://skillicons.dev/icons?i=php,laravel,python,java&theme=dark" /> </p> <img src="https://progress-bar.dev/85/?title=PHP&width=400&color=00ff00" /> <img src="https://progress-bar.dev/80/?title=Laravel&width=400&color=00ff00" /> <img src="https://progress-bar.dev/80/?title=Python&width=400&color=00ff00" /> <img src="https://progress-bar.dev/70/?title=Java&width=400&color=00ff00" />
+
+📱 Mobile & Database
+<p> <img src="https://skillicons.dev/icons?i=flutter,dart,mysql&theme=dark" /> </p> <img src="https://progress-bar.dev/70/?title=Flutter&width=400&color=00ff00" /> <img src="https://progress-bar.dev/70/?title=Dart&width=400&color=00ff00" /> <img src="https://progress-bar.dev/85/?title=SQL&width=400&color=00ff00" />
