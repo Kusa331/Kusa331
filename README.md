@@ -1,41 +1,24 @@
-<p align="center" style="font-family:monospace; color:#00FF00; font-size:22px;">
-  <span>> booting system...</span><br>
-  <span>> access granted 👋</span><br>
-  <span>> Ken D. Usa</span><br>
-  <span>> BSIT Student</span><br>
-  <span>> focus: cybersecurity<span class="cursor">|</span></span>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=00FF00&center=true&vCenter=true&width=700&lines=>+booting+system...;>+access+granted+👋;>+Ken+D.+Usa;>+BSIT+Student;>+focus:+cybersecurity" />
 </p>
 
-<style>
-  @keyframes blink {
-    0%, 49% { opacity: 1; }
-    50%, 100% { opacity: 0; }
-  }
-  .cursor {
-    animation: blink 1s infinite;
-  }
-</style>
 
 
-<p style="font-family:monospace; color:#00FF00; font-size:18px;">
-Frontend (Web Security):<br>
-<span style="display:inline-block; width:90%; background:#003300;">&nbsp;</span> HTML<br>
-<span style="display:inline-block; width:85%; background:#003300;">&nbsp;</span> CSS<br>
-<span style="display:inline-block; width:80%; background:#003300;">&nbsp;</span> JavaScript<br>
-<span style="display:inline-block; width:70%; background:#003300;">&nbsp;</span> TypeScript<br><br>
+### Frontend (Web Security)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
-Backend / Frameworks (Safe Server-Side):<br>
-<span style="display:inline-block; width:85%; background:#003300;">&nbsp;</span> PHP<br>
-<span style="display:inline-block; width:80%; background:#003300;">&nbsp;</span> Laravel<br>
-<span style="display:inline-block; width:80%; background:#003300;">&nbsp;</span> Python<br>
-<span style="display:inline-block; width:70%; background:#003300;">&nbsp;</span> Java<br><br>
+### Backend / Frameworks (Secure)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 
-Mobile & Database (Data Security):<br>
-<span style="display:inline-block; width:70%; background:#003300;">&nbsp;</span> Flutter<br>
-<span style="display:inline-block; width:70%; background:#003300;">&nbsp;</span> Dart<br>
-<span style="display:inline-block; width:85%; background:#003300;">&nbsp;</span> SQL
-</p>
+### Mobile & Database (Data Security)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql)
 
-<p style="font-family:monospace; color:#00FF00; font-size:18px;">
-> while(alive) { learn(); secure(); hack_the_system(); }
-</p>
+
