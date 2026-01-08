@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3E+booting+system...;%3E+access+granted+%F0%9F%91%8B;%3EKen+Andrei+Usa;%3E+IT+STUDENT+at+the+UIC+Davao;%3E+focus%3A+cybersecurity%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&width=435&lines=%3E+booting+system...;%3E+access+granted+%F0%9F%91%8B;%3E+Ken+Andrei+Usa;IT+Student+at+UIC+Davao;%3E+focus%3A+cybersecurity%7C)](https://git.io/typing-svg)
 
 ### Frontend (Web Security)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
