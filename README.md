@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=00FF00&center=true&vCenter=true&width=700&lines=>+booting+system...;>+access+granted+👋;>+Ken+D.+Usa;>+BSIT+Student;>+focus:+cybersecurity" />
-</p>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3E+booting+system...;%3E+access+granted+%F0%9F%91%8B;%3EKen+Andrei+Usa;%3E+IT+STUDENT+at+the+UIC+Davao;%3E+focus%3A+cybersecurity%7C)](https://git.io/typing-svg)
 
 ### Frontend (Web Security)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
